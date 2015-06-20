@@ -1,9 +1,9 @@
 # Coursera-Shiny-Project
 
-This Shiny App is a interactive map interface to findout the ethinicwisw countywise popultion density.
+This Shiny App is a interactive map interface to findout the ethinicwise countywise popultion density.
 
 The data for this project is counties.rds, a dataset of demographic data for each county in the United States, 
-collected with the UScensus2010 R package
+collected with the UScensus2010 data R package.
 
 This project is just a learning process and I tried to include images and other stuffs to the application.
 
