@@ -13,6 +13,16 @@ I have published the application on ShinyApp cloud and can be viewed by clicking
  
 The required data and ui.R server.R are residing in this Repository.
 
+How to Use this.
+
+At right side Input Panel is located.
+
+Please select the Ethinic Group from the dropdown Text Box for which you want to get the Heat map of the Population Density in USA.
+
+Also select the range of density using the slider widget.
+
+The main panel will disply your selected values and  a Heat map as per your selection will be displyed below.
+
  
 
 
