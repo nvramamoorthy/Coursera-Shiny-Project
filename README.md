@@ -7,7 +7,7 @@ collected with the UScensus2010 data R package.
 
 This project is just a learning process and I tried to include images and other stuffs to the application.
 
-I have published the application on ShinyApp cloud and can be viewd clicking the following link.
+I have published the application on ShinyApp cloud and can be viewed by clicking the following link.
 
  https://nvramamoorthy.shinyapps.io/Coursera-Shiny-Project
  
