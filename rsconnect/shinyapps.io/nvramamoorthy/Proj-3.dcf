@@ -1,8 +1,6 @@
 name: Proj-3
 account: nvramamoorthy
 server: shinyapps.io
-bundleId: 206428
+bundleId: 206593
 url: https://nvramamoorthy.shinyapps.io/Proj-3
-when: 1434777949.4796
-asMultiple: FALSE
-asStatic: FALSE
+when: 1434806550.54292
