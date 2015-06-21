@@ -21,6 +21,8 @@ Please select the Ethinic Group from the dropdown Text Box for which you want to
 
 Also select the range of density using the slider widget.
 
+A computation is done at backgound to create a map with filled shaded color as per the population desity of the select range and ethinic group.
+
 The main panel will disply your selected values and  a Heat map as per your selection will be displyed below.
 
  
